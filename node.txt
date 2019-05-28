@@ -1,2 +1,4 @@
 ＃节点列表＃2jxgr节点1http://www.ssru.ga/user/server_detail/WyJwZmxrIiwicGJrZGYyX3NoYTI1NiQzMDAwMCR4cnNlZkhvcFBwS1Ekd29vR3ZJd2ZxQmlzSm1PTHhHSjhZWGpkbkRRSkJLWFFOVk9LZE5hMXNqWT0iXQ:1hVX7h:svxCkQtAZqtH5ITyufkbywETzLo
 #jxgr节点
+＃节点列表http://www.ssru.ga/user/server_detail/WyJwZmxrIiwicGJrZGYyX3NoYTI1NiQzMDAwMCR4cnNlZkhvcFBwS1Ekd29vR3ZJd2ZxQmlzSm1PTHhHSjhZWGpkbkRRSkJLWFFOVk9LZE5hMXNqWT0iXQ:1hVX7h:svxCkQtAZqtH5ITyufkbywETzLo
+#jxgr节点
